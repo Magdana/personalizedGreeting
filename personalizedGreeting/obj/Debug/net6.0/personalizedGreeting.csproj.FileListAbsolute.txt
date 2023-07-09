@@ -1,0 +1,15 @@
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\bin\Debug\net6.0\personalizedGreeting.exe
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\bin\Debug\net6.0\personalizedGreeting.deps.json
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\bin\Debug\net6.0\personalizedGreeting.runtimeconfig.json
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\bin\Debug\net6.0\personalizedGreeting.dll
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\bin\Debug\net6.0\personalizedGreeting.pdb
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\obj\Debug\net6.0\personalizedGreeting.csproj.AssemblyReference.cache
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\obj\Debug\net6.0\personalizedGreeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\obj\Debug\net6.0\personalizedGreeting.AssemblyInfoInputs.cache
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\obj\Debug\net6.0\personalizedGreeting.AssemblyInfo.cs
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\obj\Debug\net6.0\personalizedGreeting.csproj.CoreCompileInputs.cache
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\obj\Debug\net6.0\personalizedGreeting.dll
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\obj\Debug\net6.0\refint\personalizedGreeting.dll
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\obj\Debug\net6.0\personalizedGreeting.pdb
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\obj\Debug\net6.0\personalizedGreeting.genruntimeconfig.cache
+C:\Users\magda\source\repos\personalizedGreeting\personalizedGreeting\obj\Debug\net6.0\ref\personalizedGreeting.dll
